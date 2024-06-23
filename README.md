@@ -3,8 +3,8 @@ Evolution du prototype de souris - Lauréat ANCT
 Suite à la réalisation et mis en test des premiers prototypes de la [souris réalisée par le FabLab UtoPi](https://github.com/FabLabUtoPi/Souris) 
 Les évolutions suivantes ont été retenues après analyse des retours des utilisateurs/testeurs  
 
-https://github.com/FabLabUtoPi/Souris_v2/blob/main/Images/souris_v2_01.jpg
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![Image de la souris dans sa deuxième version : boîtier un peu plus grand et joystick analogique.](https://github.com/FabLabUtoPi/Souris_v2/blob/main/Images/souris_v2_01.jpg)
 
 ## Evolutions par rapport au prototype
 
