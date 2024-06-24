@@ -16,6 +16,12 @@ Le manque de stabilité semble du à la taille du boîtier, la solution retenue 
 ### Sensibilité du joystick
 Le joystick retenu à l'origine est un joystick digital. Les directions de déplacement du curseur de la souris sont commandées par des switchs (des interrupteurs) qui sont activés lorsque l'utilisateur pousse le levier dans une direction. L'accélération de déplacement du curseur est obtenue en maintenant le leviier poussé pendant au moins 0,5 seconde. Si l'utilisateur relache le levier ou change de direction, le déplacement revient en vitesse lente. Il faut de nouveau 0,5 seconde pour accélérer le déplacement. Ceci a conduit à adopter un joystick analogique. le déplacement du levier modifie une tension. En fonction de la position du levier la tension est plus ou moins élevée. Il est possible de définir dans le programme les seuils pour lesquels on passe de la vitesse lente à la vitesse rapide. L'utilisataur peut ainsi doser le déplacement du curseur instantanément, sans devoir respecter un délai.
 
+### Filtrage des mouvements involontaires
+La souris peut être utilisée par des personnes présentant des mouvements involontaires (~Parkinson). le joystick analogique permet de filtrer ces mouvements involontaires en filtrant les mouvements pour utiliser une valeur moyenne. 
+
+### Adaptation de la préhension
+Le joystick permet de monter un système de préhension adapté à la personne (boule, repose poignet, poignée adaptée après scan de la main)
+
 ### Réorganisation interne
 L'augmentation de la taille du boîtier a permis de placer différemment les composants à l'intérieur du boîtier. Le montage de la souris est facilité et le temps de montage a été réduit de 30% environ
 
