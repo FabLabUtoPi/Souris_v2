@@ -21,7 +21,8 @@ La souris peut être utilisée par des personnes présentant des mouvements invo
 
 ### Adaptation de la préhension
 Le joystick permet de monter un système de préhension adapté à la personne (boule, repose poignet, poignée adaptée après scan de la main)
-
+![Image d'un boule adaptée au joystick analogique.](https://github.com/FabLabUtoPi/Souris_v2/blob/main/Images/boule.jpg)
+![Image d'un porte poignet adapté au joystick analogique.](https://github.com/FabLabUtoPi/Souris_v2/blob/main/Images/support_poignet.jpg)
 
 ### Réorganisation interne
 L'augmentation de la taille du boîtier a permis de placer différemment les composants à l'intérieur du boîtier. Le montage de la souris est facilité et le temps de montage a été réduit de 30% environ
