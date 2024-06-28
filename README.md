@@ -33,7 +33,7 @@ L'augmentation de la taille du boîtier a permis de placer différemment les com
 L'augmentation de taille a également permis de repenser la fixation de la plaquette supportant les interrupteurs avec une meilleure solidité de la fixation et un montage plus rapide.
 
 ### Abandon du vibreur
-![Image de l'intérieur de la souris dans sa deuxième version : boîtier un peu plus grand et joystick analogique.](https://github.com/FabLabUtoPi/Souris_v2/blob/main/Images/souris_v2_03.jpg)
+![Image de l'intérieur de la souris dans sa deuxième version : boîtier un peu plus grand et joystick analogique.](https://github.com/FabLabUtoPi/Souris_v2/blob/main/Images/souris_v2_02.jpg)
 Pensé pour des non voyants, le premier modèle comportait un buzzer et un vibreur qui fournissait un retour haptique. Il apparait que le buzzer fournit une information suffisante pour un non voyant. Le vibreur a donc été supprimé du schéma mais pourra être ajouté en option pour des personnes mal-entendantes. On garde la possibilité de désactiver le buzzer en appuyant sur une touche au démarrage de la souris.
 
 ### Réduction du nombre de pièces à imprimer
